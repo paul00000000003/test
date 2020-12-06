@@ -8,7 +8,7 @@ class App extends React.Component {
   }
 
   render() {
-    return <h1>hoofdstuk 1</h1>;
+    return <h1>Dit is het eerste hoofdstuk</h1>;
   }
 }
 
